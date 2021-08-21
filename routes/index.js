@@ -4,6 +4,7 @@ const controller = require('../controllers/controller.js')
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
+    console.log(req.headers());
     if (req.header('X-RapidAPI-Proxy-Secret') == "9be66f80-02b1-11ec-a11b-1f5a4b32332b") {
         controller.search(req, res);
     } else {
