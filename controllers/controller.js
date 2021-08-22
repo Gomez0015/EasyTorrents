@@ -1,5 +1,5 @@
 const axios = require('axios');
-const apiKey = "e46eabe7402731804b6d3bf9858dddcc";
+const apiKey = process.env.MOVIEAPIKEY;
 
 // Torrent Shit Hacker go BRRRRR
 const TorrentSearchApi = require('./customModules/torrent-search-api');
