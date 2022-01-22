@@ -2,7 +2,7 @@
 
 Grabs torrent and all movie info in a simple function! Useful for creating a Streaming Website!
 
-# Instalation 
+# Installation 
 
 `npm i easytorrents --save`
 
