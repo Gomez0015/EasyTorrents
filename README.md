@@ -91,5 +91,6 @@ getMovie();
 
 # Creator
 
-[@RaxoCoding Twitter]https://twitter.com/RaxoCoding
-[RaxoCoding Youtube]https://www.youtube.com/channel/UCGxmNncs5ihjB-xk_9UUHyw
+@RaxoCoding
+[Twitter]https://twitter.com/RaxoCoding
+[Youtube]https://www.youtube.com/channel/UCGxmNncs5ihjB-xk_9UUHyw
