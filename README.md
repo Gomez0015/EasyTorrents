@@ -11,7 +11,7 @@ Grabs torrent and all movie info in a simple function! Useful for creating a Str
 # Example Usage
 
 ```
-const easyTorrents = require('./controller.js');
+const easyTorrents = require('easytorrents');
 
 async function getMovie() {
     const movieData = await easyTorrents.search(moviedb_api_key, 'matrix', 'en', '1080p');
