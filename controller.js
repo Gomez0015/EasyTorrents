@@ -4,7 +4,7 @@ const axios = require('axios');
 const TorrentSearchApi = require('./customModules/torrent-search-api');
 
 
-async function search(apiKey, title, language, quality) {
+async function search(apiKey, title, quality) {
     var type = 'movie';
     if (apiKey == undefined || title == undefined || language == undefined || quality == undefined || type == undefined) {
         return ({ error: "Parameters Missing" });
