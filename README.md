@@ -6,7 +6,7 @@ Grabs torrent and all movie info in a simple function! Useful for creating a Str
 
 `npm i easytorrents --save`
 
-Get a moviedb api key [URL]https://www.themoviedb.org/documentation/api
+[Get a moviedb api key](https://www.themoviedb.org/documentation/api)
 
 # Example Usage
 
@@ -92,5 +92,5 @@ getMovie();
 # Creator
 
 @RaxoCoding
-[Twitter]https://twitter.com/RaxoCoding
-[Youtube]https://www.youtube.com/channel/UCGxmNncs5ihjB-xk_9UUHyw
+[Twitter](https://twitter.com/RaxoCoding)
+[Youtube](https://www.youtube.com/channel/UCGxmNncs5ihjB-xk_9UUHyw)
