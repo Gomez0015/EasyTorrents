@@ -1,3 +1,5 @@
+[![npm downloads](https://img.shields.io/npm/dt/easytorrents.svg?style=flat-square)](http://npm-stat.com/charts.html?package=easytorrents)
+
 # What Does it do?
 
 Grabs torrent and all movie info in a simple function! Useful for creating a Streaming Website!
