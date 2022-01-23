@@ -1,6 +1,6 @@
 {
     "name": "easytorrents",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "description": "Get All the Info you need on torrents easily! Also get their Magnet Links to Stream!",
     "main": "controller.js",
     "scripts": {

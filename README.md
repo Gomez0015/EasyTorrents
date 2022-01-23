@@ -1,3 +1,4 @@
+[![npm version](https://img.shields.io/npm/v/easytorrents.svg?style=flat-square)](https://www.npmjs.org/package/easytorrents)
 [![npm downloads](https://img.shields.io/npm/dt/easytorrents.svg?style=flat-square)](http://npm-stat.com/charts.html?package=easytorrents)
 
 # What Does it do?
